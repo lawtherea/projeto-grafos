@@ -1,0 +1,2 @@
+Tamanho do clique: 6
+Clique Maxima Encontrada: 3 4 7 18 22 24 

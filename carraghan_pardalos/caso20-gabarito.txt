@@ -1,0 +1,2 @@
+Tamanho do clique: 6
+Clique Maxima Encontrada: 2 4 7 13 16 20 

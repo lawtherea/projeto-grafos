@@ -1,0 +1,2 @@
+Tamanho do clique: 5
+Clique Maxima Encontrada: 1 6 10 11 13 
