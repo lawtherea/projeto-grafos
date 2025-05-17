@@ -93,6 +93,16 @@ bash Bat1.sh
 
 ---
 
+## 🧪 Script para testar o algoritmo de Carraghan-Pardalos (Bat2.sh)
+
+Para executar o script, certifique-se de que o executável carraghan_pardalos.exe está na pasta carraghan_pardalos. Em seguida, execute o script Bat2.sh a partir da pasta Bat2:
+
+```bash
+bash Bat2.sh
+```
+
+O script irá testar o algoritmo de Carraghan-Pardalos em todos os casos de teste disponíveis e comparar as saídas com os gabaritos correspondentes. 
+
 ## 📝 Observações
 
 - O algoritmo de Carraghan-Pardalos pode retornar diferentes cliques do mesmo tamanho, dependendo da ordem de visita dos vértices.
