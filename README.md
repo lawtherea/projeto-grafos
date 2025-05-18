@@ -43,6 +43,7 @@ Resolve o problema da clique máxima, identificando o maior subconjunto de vért
 ```
 projeto-grafos/
 ├── Bat1/                   # Scripts e instâncias para testes automatizados
+├── Bat2/                   # Testes automatizados do algoritmo 5
 ├── carraghan_pardalos/     # Algoritmo 5: clique máxima
 ├── dijkstra/               # Caminho mínimo
 ├── kosaraju/               # Componentes fortemente conexas
